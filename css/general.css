@@ -1,5 +1,5 @@
 html {
-    font-family: Garamond, Bodoni MT, serif;
+    font-family: Garamond,"Bodoni MT", serif;
 }
 
 body {
@@ -7,7 +7,7 @@ body {
 }
 
 h1 {
-    font-family: Gill Sans, "Bodoni MT", Serif;
+    font-family: Gill Sans, Bodoni MT, Serif;
     font-weight: normal;
     font-size: 4rem;
     line-height: 4rem;
@@ -16,7 +16,7 @@ h1 {
 }
 
 h2 {
-    font-family:Gill Sans,"Bondoni MT", Serif;
+    font-family:Gill Sans, Bondoni MT, Serif;
     font-weight:normal;
     color: #C71585;
 }
@@ -59,4 +59,4 @@ img {
     border-bottom: 2px solid #4B0082;
     border-right: 2px solid #4B0082;
     border-left: 2px solid #4B0082;
-    
+}
