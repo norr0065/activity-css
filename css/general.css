@@ -1,0 +1,62 @@
+html {
+    font-family: Garamond, Bodoni MT, serif;
+}
+
+body {
+    background-color: #E0FFFF;
+}
+
+h1 {
+    font-family: Gill Sans, "Bodoni MT", Serif;
+    font-weight: normal;
+    font-size: 4rem;
+    line-height: 4rem;
+    color: #C71585;
+    text-shadow: #4B0082 3px 3px;
+}
+
+h2 {
+    font-family:Gill Sans,"Bondoni MT", Serif;
+    font-weight:normal;
+    color: #C71585;
+}
+
+h3 {
+    font-size:2rem;
+    color: #4B0082;
+}
+
+p,
+li {
+    font-size: 1rem;
+    line-height: 1.5rem;
+}
+
+h1 + p {
+    font-size:1rem;
+    line-height: 1.5rem; 
+}
+
+strong { 
+    font-weight: bold;
+    font-size: 1rem;
+}
+
+p strong {
+    color: #008080;
+}
+
+em {
+    font-style: italic;
+}
+
+li {
+    color: #4B0082;
+}
+
+img {
+    border-top: 2px solid #4B0082; /* size + solid, dashed or dotted + colour */
+    border-bottom: 2px solid #4B0082;
+    border-right: 2px solid #4B0082;
+    border-left: 2px solid #4B0082;
+    
